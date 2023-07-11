@@ -13,6 +13,21 @@ export const MONTHS: string[] = [
 	'Dec',
 ]
 
+export const MONTHS1: string[] = [
+	'Jan',
+	'Feb',
+	'Mar',
+	'Apr',
+	'May',
+	'Jun',
+	'Jul',
+	'Aug',
+	'Sep',
+	'Oct',
+	'Nov',
+	'Dec',
+]
+
 export const WEEK_DAYS: string[] = [
 	'Sun',
 	'Mon',
